@@ -1,3 +1,11 @@
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Source Sans Pro', sans-serif;
+  margin-bottom: 20px;
+}
+body, p, div {
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
 header {
   margin-top: 20px;
 }
